@@ -1,0 +1,7 @@
+.frame2{
+    border: 1px solid;
+    border-color: brown;
+    height: 500px;
+    width: 650px;
+    float: right;
+}
