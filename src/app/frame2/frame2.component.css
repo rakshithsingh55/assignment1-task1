@@ -2,6 +2,14 @@
     border: 1px solid;
     border-color: brown;
     height: 500px;
-    width: 650px;
+    width: 700px;
     float: right;
+
 }
+
+.image2{
+    height: 400px;
+    width: 200px;
+    padding: 10px;
+    float: left;  
+   }
