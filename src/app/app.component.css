@@ -1,13 +1,8 @@
-.main{
-    border-color: darkblue;
+.main1{
     border-width: 1900px;
     height: 570px;
     border: 2px solid;
+    border-color: blue;
     padding: 20px 20px;
 }
 
-p{
-    text-align: center;
-    text-shadow: darkgray;
-    font-size: medium;
-}
